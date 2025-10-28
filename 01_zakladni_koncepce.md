@@ -6,7 +6,7 @@ Game Engine : Unity
 
 
 ## Game Loop
-Hraje se do zatim neurčené hloubky a míry výzkumu (1 level/Výprava = minimalní požadovaný výzkum a hloubka ) 
+Hraje se do zatim neurčené hloubky a míry výzkumu (1 level/Výprava = minimální požadovaný výzkum a hloubka ) 
 
 zároveň bude hráč muset davat pozor na hloubku protože čim větši hloubka tim více nebezpečné to je (Ruzné přepadení od fakcí/monster atd...) 
 
