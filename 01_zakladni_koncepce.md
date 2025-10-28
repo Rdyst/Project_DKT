@@ -23,7 +23,7 @@ Monstra jsou rozdělená na urovně nebezpeči přístup k nebezpečnějším se
 Příklad/Inspirace z Lobotomy Corporation:
 <img width="1694" height="785" alt="image" src="https://github.com/user-attachments/assets/6903532e-799e-4b43-9ad4-cb768a2260eb" />
 
-Výzkum se dostane z práce s monstry která je rozdělena na 4 typy s tím že každé monstrum reaguje jinak na každy typ (někdy vraždou :D ).
+Výzkum se dostane z práce s monstry která je rozdělena na 4 typy s tím že každé monstrum reaguje jinak na každy typ (někdy vraždou :D nebo utěkem a to skončí genocidou).
 
 Praci provádí zaměstnanci kteŕy mají výbavu a staty které se zvedají po dokončení práce.
 
