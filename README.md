@@ -1,6 +1,6 @@
 # Project_DKT
 
-Hra od populárního studia Vanburknov
+Hra od populárního studia Varnburknov
 <br><br/>
 CEO/Director / Lead Programmer / UX Designer/ Animator: **Alexandr sasa Dao Rdyst** <br>
 Co-CEO / Lead Level Designer / Lead Concept and Enviroment Artist / Programmer: [**Martin Konárek AKA CHUJbob**](https://github.com/MartinKonarek29)
