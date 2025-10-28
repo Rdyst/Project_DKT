@@ -1,5 +1,9 @@
 # Základní koncept
-Rogue-like/lite SCP managment Simulator
+2D Rogue-like/lite SCP managment Simulator
+
+Game Engine : Unity
+
+
 
 ## Game Loop
 Hraje se do zatim neurčené hloubky a míry výzkumu (1 level/Výprava = minimalní požadovaný výzkum a hloubka ) 
