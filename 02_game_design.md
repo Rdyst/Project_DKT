@@ -5,7 +5,7 @@ HP / Speed - Zdraví / rychlost pohybu a útoku
 
 SP / Work speed - Mentální výdrž / rychlost vykonání práce
 
-FEAR / WS - Strach zaměstnance (míra strachu ovlivňuje násobitel SP poškození, zároveň) / Úspěšnost práce (bonusová šance na úspěch práce)
+FEAR / WS - Strach zaměstnance (míra strachu ovlivňuje násobitel SP poškození) / Úspěšnost práce (bonusová šance na úspěch práce)
 
 FAITH - Víra zaměstnance - šance na vzdor mentálního zhroucení (když se SP dostane na 0, při úspěchu se vrátí na 20 % SP) / Šance na permanentní negativní atribut 
 
