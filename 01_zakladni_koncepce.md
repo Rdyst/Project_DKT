@@ -40,3 +40,5 @@ Inspirace z Lobotomy Corporation:
 
 ### Záměr
 **B O L E S T**
+
+<br><br> Samozřejmě zábava
