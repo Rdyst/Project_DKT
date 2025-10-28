@@ -9,3 +9,6 @@ Sound Designer / Music Composer / Programmer: [Le Huy Tung AKA Tunki](https://gi
 [01_zakladni_koncepce](https://github.com/Rdyst/Project_DKT/blob/main/01_zakladni_koncepce.md)
 <br><br/>
 [02_game_design](https://github.com/Rdyst/Project_DKT/blob/main/02_game_design.md)
+<br><br/>
+[05_hudba](https://github.com/Rdyst/Project_DKT/blob/main/05_hudba.md)
+
