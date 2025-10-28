@@ -37,3 +37,6 @@ Praci provádí zaměstnanci kteŕy mají výbavu a staty které se zvedají po 
 
 Inspirace z Lobotomy Corporation:
 <img width="1400" height="778" alt="image" src="https://github.com/user-attachments/assets/6241b13d-aef5-44a0-b4e1-66fa496a456f" />
+
+### Záměr
+B O L E S T
