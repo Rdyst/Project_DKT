@@ -41,7 +41,7 @@ Inspirace z Lobotomy Corporation:
 
 
 
-Náš prototyp
+Náš prototyp: <br>
 ![](showcasegif.gif)
 
 ### Záměr
