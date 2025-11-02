@@ -41,7 +41,7 @@ Inspirace z Lobotomy Corporation:
 
 
 
-Náš prototyp: <br>
+Náš prototyp: (s placeholdery) <br>
 ![](showcasegif.gif)
 
 # Controls
