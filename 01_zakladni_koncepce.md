@@ -44,6 +44,12 @@ Inspirace z Lobotomy Corporation:
 Náš prototyp: <br>
 ![](showcasegif.gif)
 
+# Controls
+camera: WASD nebo right-click + tahnutí
+interact: left-click
+
+
+
 ### Záměr
 **B O L E S T**
 
