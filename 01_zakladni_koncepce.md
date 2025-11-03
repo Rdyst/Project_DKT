@@ -14,6 +14,8 @@ pokud je hráč připravený dostane různé bonusy/věci které mu pomužou v d
 
 
 ukolem během výpravy bude dostat z monster požadovanou měnu (Výzkum/Zkušenost a Pochopení/Výzkum dotyčného monstra ) pomocí kterého se může dostat hlouběji či si za "Pochopení" koupit od daného monstra výbavu (Zbraně a Brnění...).
+
+TLDR: Manažujte svoje zaměstnance a pracujte s SCP-like monstry pro výzkum 
 <br><br><br>
 Rouge-like zpočivá v tom že na začátku každé výpravy si hráč vybere z náhodné nabídky monster 
 u kteŕych zatim kvuli nedostatečnému výzkumu nevidí jeho název vidi pouze krátky popisek o něm či něco spojeného s nim.
