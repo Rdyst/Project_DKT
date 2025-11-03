@@ -44,11 +44,11 @@ Inspirace z Lobotomy Corporation:
 Náš prototyp: (s placeholdery) <br>
 ![](showcasegif.gif)
 
-## Controls
+### Controls
 camera: WASD nebo right-click + tahnutí
 interact: left-click
 
-### Cílové Publikum
+## Cílové Publikum
 
 Věk: 15+
 
