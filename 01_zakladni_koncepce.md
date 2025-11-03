@@ -28,7 +28,7 @@ Výzkum se dostane z práce s monstry která je rozdělena na 4 typy s tím že 
 
 Praci provádí zaměstnanci kteŕy mají výbavu a staty které se zvedají po dokončení práce.
 
-Úspěšnost práce se odvijí od statu zaměstannce, ti se naverbují před výpravou, mohou mít různé mentalní problémy a staty. 
+Úspěšnost práce se odvijí od statu zaměstannce, ti se naverbují před výpravou, mohou mít různé mentalní problémy, vlastnosti (např. poseroutka = 2x sanity dmg, talentovaný = +1 level do každého statu) a staty. 
 
 
 
