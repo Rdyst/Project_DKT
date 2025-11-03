@@ -48,7 +48,11 @@ Náš prototyp: (s placeholdery) <br>
 camera: WASD nebo right-click + tahnutí
 interact: left-click
 
+# Cílové Publikum
 
+Věk: 15+
+
+Fanoušci Lobotomy Corporation a lidi který si užívají Micro-management, Obtížnost, visual novely, rogue-like elementy
 
 ### Záměr
 **B O L E S T**
