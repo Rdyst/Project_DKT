@@ -31,6 +31,11 @@ Hra bude mít různé fáze a tím pádem i různou hudbu pro tyto situace. Žá
 
 Hudba samozřejmě by měla býti ve hře nastavitelná, ale defaultně by mělo být nastavený tak, aby nebyl hlasitější než zvuky ostatních věcí ve hře.
 
+
+Zde je kousek hudby pro main menu:
+[lab - mainmenu.mp3](https://github.com/user-attachments/files/23346577/lab1.1.mp3)
+
+
 ### Dodatek od Tunkiho
 Produkce hudby je něco jako můj side-koníček, takže jsem si tuto část vzal velmi rád. Jen drobný detail bude, že s kompozicí hudby mám skoro nulovou zkušenost (nechodil jsem na žádný hudební kroužek a ZUŠ) a že to budu chtít všechno perfektní a podle sebe..
 
