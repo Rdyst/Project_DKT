@@ -35,6 +35,15 @@
 - Šipka označuje jednostraný průchod (postava může projít jen jedním směrem)
 
 
+## Save and Load
+Hračovo postup se uloží na konci výpravy a proto na dalšim loadu do sceny musíme zaměstnance spawnout uplně znova
+takže si nemyslete to že se klonují jako chyba protože na konci dne se stejně po save všichni zabiji/zničí tím padem ke klonování ve finalní verzi nedojde.
+
+
+Menší ukázka jak funguje náš save/load system: 
+https://github.com/user-attachments/assets/736a85e0-7867-4ea5-96c5-9b104819154e
+
+
 
 
 
