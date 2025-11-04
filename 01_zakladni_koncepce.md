@@ -44,7 +44,11 @@ Inspirace z Lobotomy Corporation:
 
 
 Náš prototyp: (s placeholdery) <br>
-![](showcasegif.gif)
+
+
+
+https://github.com/user-attachments/assets/8b293e17-0621-435e-bbb9-293178f67b8c
+
 
 ### Controls
 camera: WASD nebo right-click + tahnutí
