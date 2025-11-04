@@ -50,6 +50,10 @@ Náš prototyp: (s placeholdery) <br>
 https://github.com/user-attachments/assets/8b293e17-0621-435e-bbb9-293178f67b8c
 
 
+<img width="1146" height="644" alt="image" src="https://github.com/user-attachments/assets/59482896-ae47-4472-b9a2-d5b977617c7b" />
+
+
+
 ### Controls
 camera: WASD nebo right-click + tahnutí
 
