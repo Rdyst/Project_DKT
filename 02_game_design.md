@@ -50,6 +50,6 @@ https://github.com/user-attachments/assets/857337b5-3639-408c-aabd-5a13aed53cd6
 
 
 
-v ukázce zmením max health a sp našeho zaměstnance to se uloží a spawneho na stejné lokaci jako kde skončil (to trošku upravíme ať se spawne v odílu kam patří ale na to potřebujeme nejdříve mapu takže prozatím to je nastavené na jeho poslední lokaci) a jak už jsem vysvětlil ke klonování má dojít to je učelem.
+v ukázce změním max health a sp našeho zaměstnance to se uloží (bohužel jsem zapomněl to ukazat) a spawneho na stejné lokaci jako kde skončil (to trošku upravíme ať se spawne v odílu kam patří ale na to potřebujeme nejdříve mapu takže prozatím to je nastavené na jeho poslední lokaci) a jak už jsem vysvětlil ke klonování má dojít to je učelem.
 
 
