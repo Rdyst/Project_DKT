@@ -41,7 +41,12 @@ takže si nemyslete to že se klonují jako chyba protože na konci dne se stejn
 
 
 Menší ukázka jak funguje náš save/load system: 
-https://github.com/user-attachments/assets/736a85e0-7867-4ea5-96c5-9b104819154e
+
+
+
+
+
+https://github.com/user-attachments/assets/857337b5-3639-408c-aabd-5a13aed53cd6
 
 
 
