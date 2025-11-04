@@ -20,8 +20,8 @@
 
 - Postavy získávají XP zkoumáním monster
 - Nebezpečnější monstra poskytují více XP
-- Postava má 4 vlastnosti 
-- Každá vlastnost má vlastní úroveň a získává do nich XP plněním specifickou prací (pokud postava vykoná práci typu "Fulfill" dostane XP do HP/Speed atributu) 
+- Postava má 4 staty 
+- Každá stat má vlastní úroveň a získává do nich XP plněním specifickou prací (pokud postava vykoná práci typu "Fulfill" dostane XP do HP/Speed atributu) 
 
 ## Layout mapy
 
