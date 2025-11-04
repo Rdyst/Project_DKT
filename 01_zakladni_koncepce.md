@@ -48,6 +48,7 @@ Náš prototyp: (s placeholdery) <br>
 
 ### Controls
 camera: WASD nebo right-click + tahnutí
+
 interact: left-click
 
 ## Cílové Publikum
