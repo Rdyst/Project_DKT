@@ -37,7 +37,7 @@
 
 ## Save and Load
 Hračovo postup se uloží na konci výpravy a proto na dalšim loadu do sceny musíme zaměstnance spawnout uplně znova
-takže si nemyslete to že se klonují jako chyba protože na konci dne se stejně po save všichni zabiji/zničí tím padem ke klonování ve finalní verzi nedojde.
+takže si nemyslete že jejich klonování je chyba protože na konci dne se stejně po save všichni zabiji/zničí tím padem ke klonování ve finalní verzi nedojde.
 
 
 Menší ukázka jak funguje náš save/load system: 
