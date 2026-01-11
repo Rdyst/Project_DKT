@@ -75,6 +75,7 @@ https://github.com/user-attachments/assets/20af9e7b-4244-4f7b-bba8-f9044a0436fd
 
 
 Jak na ukázce vidíte zaměstnance pohybujeme pomocí kliknutí na ně a poté kliknutí do mistnosti kam chceme aby šli přidame ještě UI aby bylo jasne kdy mame vybraného zameštnance a kam ho mužete poslat.
+Zaměstnanec pronásleduje pozici trojuhelníku a do dveří vstupuje automaticky.
 
 
 
