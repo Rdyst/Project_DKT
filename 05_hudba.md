@@ -9,7 +9,7 @@ Pro naše studio je hudba velmi důležitou součástí. Vede jak se ve hře cí
 Jelikož je naše studio velmi chabé v produkci hudby, rozhodl jsem se tento úkol vzít celý do svých rukou. - Tunki
 
 ## Software
-Jako software jsme si zvolili Bandlab a Ableton Live 11. S LMMS jsme měli šanci se seznámit a řekněme tomu, že se nikomu z nás do toho nechtělo.
+Jako software jsme si zvolili Bandlab a Ableton Live ~11~ 12 (upgrade!). S LMMS jsme měli šanci se seznámit a řekněme tomu, že se nikomu z nás do toho nechtělo.
 
 Bandlab je jednoduchý DAW, se kterým každý dokáže pracovat. Dá se tedy říci, že je to skvělý DAW pro začátečníky.
 
@@ -32,12 +32,14 @@ Hra bude mít různé fáze a tím pádem i různou hudbu pro tyto situace. Žá
 Hudba samozřejmě by měla býti ve hře nastavitelná, ale defaultně by mělo být nastavený tak, aby nebyl hlasitější než zvuky ostatních věcí ve hře.
 
 
-Zde je kousek hudby pro main menu:
+Zde jsou dema písniček:
 [lab - mainmenu.mp3](https://github.com/user-attachments/files/23346577/lab1.1.mp3)
+[wrngmybe_demo.mp3](https://github.com/user-attachments/files/24552095/wrngmybe_demo.mp3)
+
 
 
 ### Dodatek od Tunkiho
-Produkce hudby je něco jako můj side-koníček, takže jsem si tuto část vzal velmi rád. Jen drobný detail bude, že s kompozicí hudby mám skoro nulovou zkušenost (nechodil jsem na žádný hudební kroužek a ZUŠ) a že to budu chtít všechno perfektní a podle sebe..
+Produkce hudby je něco jako můj side-koníček, takže jsem si tuto část vzal velmi rád. Jen drobný detail bude, že s kompozicí hudby mám skoro nulovou zkušenost (nechodil jsem na žádný hudební kroužek a ani ZUŠ) a že to budu chtít všechno perfektní a podle sebe..
 
 
 Víceméně budu tvořit pomocí syntezátorů a různych blbůstků, co najdu po internetu. Nepopírám i fakt, že se tu zde mohou objevovat samply a užití těchto samplů. Pokud bych použil nějaký sample, musel bych ho velmi modifikovat.
