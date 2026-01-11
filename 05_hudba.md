@@ -13,7 +13,7 @@ Jako software jsme si zvolili Bandlab a Ableton Live ~11~ 12 (upgrade!). S LMMS 
 
 Bandlab je jednoduchý DAW, se kterým každý dokáže pracovat. Dá se tedy říci, že je to skvělý DAW pro začátečníky.
 
-Ableton Live 11 je naopak jedno z pokročilejších DAW, ve kterém se dá dělat více věcí, než v Bandlabu (např. live looping, vlastní pluginy, atd...)
+Ableton Live 12 je naopak jedno z pokročilejších DAW, ve kterém se dá dělat více věcí, než v Bandlabu (např. live looping, vlastní pluginy, atd...)
 
 ## Žánr
 Jelikož jsme celkem doposud neznámé studio a nikdo se o nás nezajímá, rozhodli jsme se zvolit jednodušší cestu ve výběru žánru. Žádný.
