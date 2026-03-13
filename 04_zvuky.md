@@ -18,3 +18,6 @@ Jednoduše řečeno: pracujeme v tom, v čem jsme více zorientovaní.
 
 Zvuky se budou přehrávat v souvislosti kamery hráče. Pokud bude hráč zoomnutý pryč z místnosti (např. místnost s motory), budou zvuky potichu či žádné. Bude-li hráčova kamera přiblížena k místnosti kuchyně, budou slyšet zvuky talířů a vidliček.<br>
 Zvuky budou nastavitelné.
+
+
+[test](https://github.com/Rdyst/Project_DKT/blob/main/other/steamboiler.mp3)
