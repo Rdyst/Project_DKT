@@ -12,6 +12,8 @@ Sound Designer / Music Composer / Programmer: [Le Huy Tung AKA Tunki](https://gi
 <br><br/>
 [03_grafika](https://github.com/Rdyst/Project_DKT/blob/main/03_grafika.md)
 <br></br>
+[04_zvuky](https://github.com/Rdyst/Project_DKT/blob/main/04_zvuky.md)
+<br><br>
 [05_hudba](https://github.com/Rdyst/Project_DKT/blob/main/05_hudba.md)
 <br><br>
 Trello to do list
