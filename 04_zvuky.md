@@ -11,7 +11,7 @@ Jeden z těchto assetů by mohl mít <a href="https://assetstore.unity.com/packa
 ## Software
 
 Software jsme si vybrali Audacity a Ableton Live 12.<br>Audacity je jednoduchý SW s příjemným a friendly UI. Dá se v nich udělat jednoduché úpravy či nahrávání zvukových stop.<br>
-Ableton Live 12 jsme si vybrali pro to, že i se syntezátorami se dají vytvářet všelijaké zvuky. Také v nich jsou super pluginy, které Audacity nemusí mít.<br><br>
+Ableton Live 12 jsme si vybrali pro to, že i se syntezátory se dají vytvářet všelijaké zvuky. Také v nich jsou super pluginy, které Audacity nemusí mít.<br><br>
 Jednoduše řečeno: pracujeme v tom, v čem jsme více zorientovaní.
 
 ## Zakomponování zvuků do hry
