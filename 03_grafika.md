@@ -24,9 +24,17 @@
 
 - Použítý base design pro postavy
 
+<img width="264" height="532" alt="image" src="https://github.com/user-attachments/assets/4aa923bb-8c0a-45a1-a0a6-8e8e8cbd449d" />
+
+- Border pro vybranou postavu
+
 <img width="714" height="455" alt="image" src="https://github.com/user-attachments/assets/1ee4b52e-ba2f-4872-98bb-98a3716f3c78" />
 
 - Místnost (nedokončený design, bude se předělávat)
+
+<img width="1037" height="654" alt="image" src="https://github.com/user-attachments/assets/d9d27d19-f6cb-408b-8813-8e1ba93c60fb" />
+ 
+- Místnost (redesign, work in progress)
 
 <img width="1434" height="212" alt="image" src="https://github.com/user-attachments/assets/941c9da8-4773-4b64-95f4-1a95cb0a4583" />
 
