@@ -38,7 +38,7 @@
 
 <img width="1434" height="212" alt="image" src="https://github.com/user-attachments/assets/941c9da8-4773-4b64-95f4-1a95cb0a4583" />
 
--páska s nápisem "RESEARCH"
+- páska s nápisem "RESEARCH"
 
 
 
