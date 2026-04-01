@@ -18,6 +18,10 @@
 
 - koncept art draka který možná použijeme ve hře
 
+  
+<img width="714" height="455" alt="image" src="https://github.com/user-attachments/assets/1ee4b52e-ba2f-4872-98bb-98a3716f3c78" />
+
+- Místnost (nedokončený design, bude se předělávat)
 
 ## Assety:
 <img width="264" height="582" alt="image" src="https://github.com/user-attachments/assets/6282cc52-21e6-4d1e-9269-4264232d844a" />
@@ -28,9 +32,7 @@
 
 - Border pro vybranou postavu
 
-<img width="714" height="455" alt="image" src="https://github.com/user-attachments/assets/1ee4b52e-ba2f-4872-98bb-98a3716f3c78" />
 
-- Místnost (nedokončený design, bude se předělávat)
 
 <img width="548" height="343" alt="image" src="https://github.com/user-attachments/assets/17ee862f-ebec-4bb1-9e6a-b86aac97b36f" />
 
