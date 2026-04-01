@@ -32,9 +32,10 @@
 
 - Místnost (nedokončený design, bude se předělávat)
 
-<img width="1037" height="654" alt="image" src="https://github.com/user-attachments/assets/d9d27d19-f6cb-408b-8813-8e1ba93c60fb" />
+<img width="548" height="343" alt="image" src="https://github.com/user-attachments/assets/17ee862f-ebec-4bb1-9e6a-b86aac97b36f" />
+
  
-- Místnost (redesign, work in progress)
+- Místnost (redesign)
 
 <img width="1434" height="212" alt="image" src="https://github.com/user-attachments/assets/941c9da8-4773-4b64-95f4-1a95cb0a4583" />
 
