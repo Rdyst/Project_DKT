@@ -5,4 +5,4 @@ lorem ipsum text
 
 
 Plakát:
-<img width="1414" height="2000" alt="METEMPSYCHOSIS" src="https://github.com/user-attachments/assets/f756fb54-b8a4-40d1-95ac-1aac46d39164" />
+<img width="1414" height="2000" alt="QR METEMPSYCHOSIS" src="https://github.com/user-attachments/assets/eabe27da-ad34-4ea5-a8cf-cc6000d6e892" />
