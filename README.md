@@ -5,6 +5,24 @@ Hra od populárního studia Varnburknov
 CEO/Developer / Lead Programmer / UX Designer/ Animator: Alexandr sasa Dao **AKA** Rdyst <br>
 Co-CEO / Lead Level Designer / Lead Concept and Enviroment Artist / Programmer: [**Martin Konárek AKA CHUJbob**](https://github.com/MartinKonarek29)<br>
 Sound Designer / Music Composer / Programmer: [Le Huy Tung AKA Tunki](https://github.com/Tsunaam1)
+
+
+
+|Type of work|Dao|Konárek|Tunki|
+|:-:|:-:|:-:|:-:|
+|Concept|X|X||
+|Game Design|X|X|/|
+|Graphics|/|X||
+|Sounds|||X|
+|Music|||X|
+|Implementation|X|X|X|
+|Development|X|X|X|
+|Propagation|X|/|/|
+|Animation|X|X|X|
+
+X - plně
+/ - častečně
+ 
 <br><br/>
 [01_zakladni_koncepce](https://github.com/Rdyst/Project_DKT/blob/main/01_zakladni_koncepce.md)
 <br><br/>
