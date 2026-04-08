@@ -1,18 +1,23 @@
 
-Movement(ten uz je zastaralej mame novejsi):
+Movement(uz s animacemi):
 
-https://github.com/user-attachments/assets/409aee4a-07f4-4b5d-9bff-df9772dfc727
+
+
+https://github.com/user-attachments/assets/4972b7e1-8a50-4861-9265-b96e22afa0c0
+
 
 
 Patrol movement pronasleduje urceny body a chodi dokolecka:
 https://github.com/user-attachments/assets/33fdac8a-f7e4-4e6d-8af3-83c4be26eb19
 
 
+Abnormality Attack/Employee Hurt Animation:
 
-https://github.com/user-attachments/assets/a98f661b-0c32-49b3-9559-179ea4ae2bc5
+
+https://github.com/user-attachments/assets/77232821-e8af-40ca-ba18-d89e02d7b2cc
 
 
-combat v W.I.P verzi (uz je taky novejsi verze)
+
 [replay_preview.wav](https://github.com/user-attachments/files/26335346/replay_preview.wav)
 
 
