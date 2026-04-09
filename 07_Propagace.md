@@ -1,6 +1,8 @@
 # Propagace
 
-lorem ipsum text
+Jako propagaci jsem se rozhodl udělat plakáty všechno je custom made v kritě s vyjímkou pana uncle sama a jeho americké vlajky.
+
+Designy mi pomohli vymyslet Tunki a Martin.
 
 
 
