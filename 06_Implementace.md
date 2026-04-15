@@ -1,4 +1,8 @@
 
+Jsou zde různe ukázky jak jsem implementovali do naší hry mechaniky.
+
+
+
 Movement(uz s animacemi):
 
 
@@ -23,7 +27,7 @@ https://github.com/user-attachments/assets/77232821-e8af-40ca-ba18-d89e02d7b2cc
 
 
 
-kostiiiiiiiici:
+Ukazka skeletona a riggingu Nugetky:
 
 
 <img width="330" height="688" alt="image" src="https://github.com/user-attachments/assets/0ed25fe9-59a0-4fd1-a409-647c74bfa0c9" />
