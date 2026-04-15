@@ -3,11 +3,15 @@ Jsou zde různe ukázky jak jsem implementovali do naší hry mechaniky.
 
 
 
-Movement(uz s animacemi):
+Movement:
 
 
 
-https://github.com/user-attachments/assets/4972b7e1-8a50-4861-9265-b96e22afa0c0
+
+
+
+https://github.com/user-attachments/assets/f751a39f-883c-4a6b-9bb4-ec01b2c720de
+
 
 
 
@@ -15,10 +19,18 @@ Patrol movement pronasleduje urceny body a chodi dokolecka:
 https://github.com/user-attachments/assets/33fdac8a-f7e4-4e6d-8af3-83c4be26eb19
 
 
-Abnormality Attack/Employee Hurt Animation:
+Abnormality Attack // Employee Attack/Hurt Animation:
 
 
-https://github.com/user-attachments/assets/77232821-e8af-40ca-ba18-d89e02d7b2cc
+
+
+https://github.com/user-attachments/assets/ca90735a-f971-4232-816d-4d7ff466d520
+
+
+Employee Attack command (Follow Enemy):
+
+https://github.com/user-attachments/assets/a7ba0157-e17f-40ef-b0a4-fce35446982d
+
 
 
 
