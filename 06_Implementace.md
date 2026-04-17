@@ -4,7 +4,78 @@ Jsou zde různe ukázky jak jsem implementovali do naší hry mechaniky.
 
 
 Movement:
+
 ```
+using UnityEngine;
+using System.Collections;
+using System.Collections.Generic;
+
+public class CreateWaypoint : MonoBehaviour
+{
+
+    // public static CreateWaypoint Instance;
+    // [SerializeField] private Vector3 YRoomVal;
+    // [SerializeField] private GameObject PlayerWaypoint;
+    private GameObject NewPlayerWaypoint;
+    public GameObject AbnoParent;
+    public GameObject EmployeeParent;
+
+    // private void Awake()
+    // {
+    //     Instance = this;
+    // }
+
+
+    public void RoomWaypointUI()
+        {
+           // if (GameObject.FindWithTag("WaypointUI"))
+            //{
+                // Prozatim1.SetActive(true);
+                
+            //}
+        }
+
+
+    public void SetPlayerWaypoint(GameObject playerWaypoint)
+    {
+
+        NewPlayerWaypoint = playerWaypoint;
+     
+    }
+    public void CreateWaypointUI(float YRoomVal)
+    {
+        Vector3 mousePos = Input.mousePosition;
+
+        Vector3 worldPos = Camera.main.ScreenToWorldPoint(mousePos);
+
+        if(NewPlayerWaypoint != null){
+        NewPlayerWaypoint.transform.position = new Vector3(worldPos.x, YRoomVal ,0) ; // tady byl worldPos.y predtim na y
+
+        NewPlayerWaypoint = null;
+        }
+
+        
+    }
+    public void CreateAbnoParent(GameObject Parent)
+    {
+        AbnoParent = Parent;
+    }
+    public void CreateAttackWaypoint()
+    {
+        if(NewPlayerWaypoint != null)
+        {
+            
+            NewPlayerWaypoint.transform.parent = AbnoParent.transform;
+            NewPlayerWaypoint.transform.localPosition = new Vector3(0, 0 ,0) ;
+            NewPlayerWaypoint = null;
+            AbnoParent = null;
+        }
+    }
+    public void ReturnWaypoints(GameObject Waypoint)
+    {
+        Waypoint.transform.parent = EmployeeParent.transform;
+    }
+}
 
 ```
 
