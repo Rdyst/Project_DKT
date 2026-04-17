@@ -4,6 +4,7 @@ Jsou zde různe ukázky jak jsem implementovali do naší hry mechaniky.
 
 
 Movement:
+
 Uryvek kódu který přemístí waypoint(objekt který NPC pronásleduje) na uřcenou pozici
 
 ```
