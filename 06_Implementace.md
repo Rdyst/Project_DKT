@@ -120,6 +120,7 @@ Ukazka skeletona a riggingu Nugetky:
 <img width="330" height="697" alt="image" src="https://github.com/user-attachments/assets/2d0fedb0-1131-43ca-b850-6f7d3f275759" />
 
 Audio:
+
 Kod který na zavolání změní ost pomocí fadingu 
 ```
 using UnityEngine;
